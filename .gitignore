@@ -8,3 +8,35 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Environment variables
+.env
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# uv
+.python-version
+
+# Data files
+*.pdf
+*.csv
+*.parquet
+*.jsonl
+
+# Model artifacts and embeddings
+*.bin
+*.pt
+*.safetensors
+models/
+
+# Vector DB local storage
+chroma/
+*.db
