@@ -1,0 +1,109 @@
+[
+    {
+        "topic": "Timing of Vasopressor Initiation Relative to Fluid Resuscitation",
+        "recommendation_number": 11,
+        "recommendation": "For adults with sepsis-induced hypotension, we suggest initial IV crystalloid fluid bolus resuscitation followed by vasopressor support if hypotension persists.",
+        "status": "New",
+        "evidence": [
+            "conditional recommendation",
+            "very low certainty evidence"
+        ],
+        "remark": "In patients with unstable septic shock, immediate concurrent administration of vasopressors together with IV crystalloid fluid may be warranted on a case-by-case basis. Presence of unstable shock should be determined by physical examination. Suggestive clinical features of unstable shock include severely reduced blood pressure, mottled skin, ashen appearance, cyanosis/decreased oxygen saturation, tachycardia, and altered mentation.",
+        "rationale": "Sepsis-induced hypotension is a critical condition that requires prompt and appropriate intervention to restore perfusion and the mitigate risk of end-organ damage. The timing of vasopressor initiation—either immediately, concomitantly with, or after fluid resuscitation—remains a topic of debate. The rationale for earlier vasopressor initiation in septic shock includes faster restoration of blood pressure and prevention of fluid overload. Persistent hypotension is associated with worse outcomes in observational studies.
+
+        Recent studies provide mixed evidence on the timing of vasopressor administration in sepsis-induced hypotension. Four relevant systematic reviews and meta-analyses were identified. Two small, single-center RCTs suggest that early administration of fixed, low-dose norepinephrine is associated with reduced fluid requirements and lower short-term mortality. However, these trials were limited by a prolonged time to shock resolution, several hours in both arms. Nonetheless, the findings of these trials were similar to observational studies suggesting that early vasopressor use may be associated with lower mortality. The multicenter CLOVERS RCT, however, found no difference in 90-day mortality, organ support-free days, or receipt of invasive ventilation between resuscitation algorithms with early vs. delayed vasopressor initiation. Recent observational studies have indicated that peripheral administration of vasopressors is both feasible and safe, so early vasopressor administration is adaptable to all settings.
+
+        The panel based its recommendations on a careful review of available evidence, balancing the potential benefits of early vasopressor administration in patients with life-threatening end-organ hypoperfusion against the lack of clear evidence supporting its use in all patients, as well as the potential harms of unnecessary catecholamine exposure in patients whose hypotension could be rapidly corrected with fluid resuscitation.
+
+        It is important to note that studies often exclude patients with severe comorbidities or in critical states, which may limit the generalizability of available evidence. Furthermore, most studies did not account for local variations in sepsis care practices, which may affect outcomes.
+
+        Further multicenter RCTs with larger sample sizes are needed to confirm the optimal timing for vasopressor initiation in sepsis-induced hypotension. There are currently 5 geographically diverse RCTs underway, the results of which are likely to provide further evidence on the subject: NCT05179499, NCT04569942, NCT06709573, NCT05836272, NCT05931601."
+    },
+    {
+        "topic": "Biomarker-Guided Initiation of Antimicrobial Therapy",
+        "recommendation_number": 22,
+        "recommendation": "For adults with possible or probable sepsis or septic shock, we suggest using clinical evaluation alone over procalcitonin plus clinical evaluation to decide whether to start antimicrobial therapy.",
+        "status": "Carryover",
+        "evidence": [
+            "conditional recommendation",
+            "very low certainty evidence"
+        ],
+        "remark": null,
+        "rationale": "This statement on performance was carried over, see the 2021 SSC guidelines for rationale"
+    },
+    {
+        "topic": "Empiric Antifungal Coverage",
+        "recommendation_number": 27,
+        "recommendation": "For adults with sepsis or septic shock, we suggest against using empirical antifungal therapy.",
+        "status": "Revisited",
+        "evidence": [
+            "conditional recommendation",
+            "very low certainty evidence"
+        ],
+        "remark": "Empiric antifungal therapy should be considered on a case-by-case basis in selected patients with sepsis or septic shock and risk factors for fungal infection, including immunosuppression, prolonged use of antibiotics, prolonged hospitalization, and intra-abdominal sources of infection.",
+        "rationale": "Sepsis and septic shock due to fungi are most commonly observed in patients in the ICU and are associated with poor outcomes. While prompt initiation of early appropriate empiric antibacterial therapy is warranted in adults with sepsis or septic shock, the impact of adding empiric antifungal therapy is less certain. Although patients with sepsis or septic shock may not benefit from empiric antifungals in general, selected patients with a high absolute risk for fungal infection probably will benefit. Risk factors for fungal infection include immunosuppression, prolonged exposure to antibacterial drugs, prolonged hospitalization, and an intra-abdominal source of infection.
+
+        We identified a relevant systematic review and meta-analysis of seven RCTs, including the EMPIRICUS trial. No additional trials were identified, and the evidence base was unchanged from the 2021 SSC guidelines.
+
+        Meta-analysis suggested that there may be no important reduction in short-term mortality with the use of empiric antifungal therapy, as compared with no antifungal therapy (RR 0.93; 95% CI,
+        0.66–1.32, low certainty).
+
+        The panel agreed that empiric antifungal therapy is not indicated in every adult with sepsis or septic shock. Generalized use of empiric antifungal therapy in all adults with sepsis or septic shock may result in reduced equity globally.
+
+        The recommendation is consistent with other recent guidelines.
+
+        Additional data on the efficacy and safety of empiric antifungal therapy in specific subgroups of patients with risk factors are warranted.
+
+        Failure to use empiric antifungal therapy in a patient with a fungal infection may be harmful, but unnecessary use of empiric antifungal therapy in a patient without a fungal infection may also be harmful. Therefore, the panel issued a conditional recommendation against the use of empiric antifungal therapy in all adults with sepsis or septic shock but rather to consider empiric antifungal therapy in selected patients with high absolute risk of fungal infection."
+    },
+    {
+        "topic": "Blood Pressure Monitoring",
+        "recommendation_number": 42,
+        "recommendation": "For adults with septic shock, we suggest using either invasive or noninvasive blood pressure monitoring.",
+        "status": "Revisited",
+        "evidence": [
+            "conditional recommendation",
+            "very low certainty evidence"
+        ],
+        "remark": "Invasive blood pressure monitoring is advised in patients with shock who: require intermediate-to-high dose vasopressors, escalating doses of vasopressor, or multiple vasopressors; are receiving frequent arterial blood sampling; or have noninvasive blood pressure measurements which are inconsistent on repeated assessments.",
+        "rationale": "Arterial catheters allow for continuous blood pressure monitoring and frequent blood sampling, so are commonly used in critically ill patients. However, variability in use exists across ICUs. Potential benefits include continuous and more accurate blood pressure monitoring, ready access to arterial blood for analyses (e.g., blood gases, lactate), and patient comfort; potential downsides include risk (e.g., infection, thrombosis), costs, and clinician time. The 2021 SSC guidelines suggested invasive blood pressure monitoring as soon as practical and if resources are available based on the discordance of invasive and noninvasive measurements.
+
+        The panel Identified one RCT in which adults admitted to the ICU were randomized in weekly blocks to restricted use or standard use of arterial catheters. However, this study was reported only in abstract form, considered a mixed population (not just sepsis), and had minimal separation in monitoring device use between groups; therefore, it was not considered in recommendation formulation. Instead, we relied on 4 observational studies (28,
+        516 total patients) assessing clinical outcomes and 12 studies (57,
+        114 total patients) evaluating blood pressure concordance; all evidence was very low certainty. Despite the very low certainty evidence, no difference was observed in mortality (5 studies for invasive vs. noninvasive monitoring: adjusted OR 1.06; 95% CI,
+        0.93–1.12) or RRT (1 study: adjusted OR 1.07; 95% CI,
+        0.66–1.73). Invasive monitoring was associated with more acute kidney injury (1 study: adjusted OR 1.36; 95% CI,
+        1.22–1.51) and longer lengths of stay (3 studies, ICU LOS: MD 1.61; 95% CI,
+        1.13–2.10 more days; 3 studies, hospital LOS: MD 3.51; 95% CI,
+        2.56–4.46 more days); yet potentially substantial residual confounding likely exists. Complications were observed in 2.89% (95% CI 2.18–3.70%) of arterial catheters in 1 study. Concordance of noninvasive with invasive blood pressure measurements (defined as a < 10 mm Hg difference) was 73% (95% CI 66–81%) for mean pressure (12 studies),
+        65% (95% CI 44–83%) for systolic pressure (7 studies) and 85% (95% CI 71–96%) for diastolic pressure (6 studies).
+
+        Although concordance of noninvasive with invasive blood pressure was moderate, several panel members raised concerns that the observed discordance may lead to inappropriate vasopressor use or difficulties maintaining target blood pressure with a noninvasive approach. Ultimately, considering the very low certainty of evidence, the lack of clear associations with clinical benefit, and concerns regarding equity, patient comfort, and measurement discordance, the panel issued a conditional recommendation supporting the use of either noninvasive or invasive blood pressure monitoring. However, several panel members felt strongly that measurement discordance should lead to a suggestion to use invasive monitoring. Regional variability in standards of care was also acknowledged.
+
+        In our practice, most panel members (62.7%) use invasive blood pressure monitoring in patients with septic shock. Of the 37.3% that routinely treat adults with septic shock without invasive monitoring, nearly all (92.0%) measure noninvasive blood pressure at least every 15 minutes during early shock or with escalating vasopressor doses (72.0% every 15 min,
+        20.0% more frequently); less frequent assessments are more common after the acute phase or with more stable vasopressor doses (28.0% every 15 min,
+        32.0% every 30 min,
+        36.0% every 60 min). Further, only 28.0% have a specific vasopressor dose at which they routinely initiate invasive monitoring (range: 0.1–0.5 µg/kg/min norepinephrine equivalents).
+
+        The multicenter EVERDAC RCT testing a noninvasive strategy to blood pressure monitoring in circulatory failure (i.e., avoidance of arterial line unless pre-specified safety criteria were met) was published after the 2026 SSC guideline recommendations were finalized. EVERDAC found that, among 1010 patients randomized,
+        28-day all-cause mortality was noninferior in the noninvasive-strategy group (34.3% mortality vs. 36.9% in the invasive-strategy, p = 0.006 for noninferiority)."
+    },
+    {
+        "topic": "Serial Lactate Measurement",
+        "recommendation_number": 51,
+        "recommendation": "For adults with sepsis and elevated lactate or septic shock, we suggest using serial lactate measurements to guide resuscitation.",
+        "status": "Revisited",
+        "evidence": [
+            "conditional recommendation",
+            "very low certainty evidence"
+        ],
+        "remark": "Fluid administration should be individualized after initial fluid bolus and monitoring of lactate decrement, rather than continuing fluids until lactate normalization is achieved.",
+        "rationale": "Serum lactate is a critical biomarker for assessing tissue hypoxia and dysfunction, though it does not directly measure tissue perfusion. The Sepsis-3 definitions explicitly include elevated lactate as a marker of cellular dysfunction alongside refractory hypotension, underscoring its role in identifying patients requiring urgent resuscitation.
+
+        Recent evidence has refined lactate-targeted resuscitation strategies. Meta-analyses comparing lactate-guided therapy with traditional approaches, such as early goal-directed therapy or central venous oxygen saturation-guided therapy, consistently show that lactate-guided therapy is associated with improved mortality and reduced organ dysfunction. For example, focusing on serial lactate measurements and clearance rates (e.g., ≥ 10% reduction every 2 hr) rather than static normalization has been associated with better clinical outcomes, including shorter ICU stays and lower severity scores. These findings highlight the importance of dynamic monitoring over single-timepoint measurements.
+
+        The panel emphasizes that clinicians consider lactate trends with clinical assessment, such as hemodynamics and organ perfusion. Fluid administration should be individualized after initial boluses, as excessive fluids to normalize lactate may cause harm. Access to lactate testing may be limited in some low resource settings. Although lactate-guided therapy demonstrates utility, variability in study designs and unclear optimal clearance thresholds contribute to the conditional recommendation and low certainty of evidence. This conditional recommendation balances lactate’s value as a biomarker with the need for personalized, context-driven care, avoiding over-reliance on a single parameter in complex clinical scenarios.
+
+        In low resource settings without access to lactate measurement, alternative approaches suggested by an expert Delphi panel include capillary refill time (CRT) and urinary output as guides to resuscitation."
+    }
+]
